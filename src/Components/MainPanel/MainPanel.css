@@ -1,0 +1,9 @@
+.main-box{
+    min-height: 680px;
+    max-height: 900px;
+    background-color: #E5E5E5;
+    margin-top: 30px;
+}
+.sidebar p:hover{
+    color: #7AB259;
+}

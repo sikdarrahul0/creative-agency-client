@@ -1,0 +1,9 @@
+
+.logo-design{
+    width: 130px;
+}
+.header-part{
+    background-color: #FBD062;
+    padding-bottom: 90px;
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0% 100%);
+}

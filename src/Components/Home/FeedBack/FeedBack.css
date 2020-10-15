@@ -1,0 +1,11 @@
+.review-img{
+    width: 64px;
+    height: 64px;
+    margin-right: 10px;
+}
+.review-card{
+    border: 1px solid lightgray;
+    border-radius: 4px;
+    margin-bottom: 10px ;
+    height: 90%;
+}
