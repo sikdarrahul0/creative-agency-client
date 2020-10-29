@@ -26,7 +26,7 @@ To complete this awesome project there are some cool technologies used. For this
 		★ React and its associated libraries
 		★ Reat Router.
 		★ Bootstrap.
-		★ Firebase for authentication (email password)
+		★ Firebase for authentication.
 		★ Firebase for hosting.
 		★ Heroku for server side deploy.
 		★ Spring js for animation.
